@@ -22,6 +22,7 @@ list_of_files = [
     f"{project_name}/data_access/proj1_data.py",
     f"{project_name}/constants/__init__.py",
     f"{project_name}/entity/__init__.py",
+    f"{project_name}/entity/artifact_entity.py",
     f"{project_name}/entity/config_entity.py",
     f"{project_name}/entity/estimator.py",
     f"{project_name}/entity/s3_estimator.py",
